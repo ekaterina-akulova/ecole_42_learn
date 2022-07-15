@@ -163,16 +163,7 @@ space.
 C for a collectible,
 E for a map exit,
 P for the player’s starting position.
-Here is a simple valid map:
-1111111111111
 
-10010000000C1
-
-1000011111001
-
-1P0011E000001
-
-1111111111111
 
 
 • The map must contain at least 1 exit, 1 collectible, and 1 starting position.
@@ -185,19 +176,6 @@ an error.
 • You don’t have to check if there’s a valid path in the map.
 
 • You must be able to parse any kind of map, as long as it respects the above rules.
-
-• Another example of a minimal .ber map:
-1111111111111111111111111111111111
-
-1E0000000000000C00000C000000000001
-
-1010010100100000101001000000010101
-
-1010010010101010001001000000010101
-
-1P0000000C00C0000000000000000000C1
-
-1111111111111111111111111111111111
 
 
 • If any misconfiguration of any kind is encountered in the file, the program must
