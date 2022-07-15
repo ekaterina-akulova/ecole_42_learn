@@ -1,4 +1,5 @@
-Subject for project Minishell: en.subject (8).pdf
+Subject for project Minishell: 
+[en.subject (9).pdf](https://github.com/ekaterina-akulova/ecole_42_learn/files/9122728/en.subject.9.pdf)
 
 Minishell
 As beautiful as a shell
